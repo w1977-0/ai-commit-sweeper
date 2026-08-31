@@ -1,0 +1,36 @@
+name: Bug report
+description: Something in aisweep misbehaves — a false positive, a crash, a wrong exit code.
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: What did you run, what did you expect, what happened instead?
+      placeholder: |
+        Commands and output help most. Redact anything private.
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: aisweep version
+      description: Output of `aisweep --version`
+      placeholder: "aisweep 0.1.0"
+    validations:
+      required: true
+  - type: textarea
+    id: environment
+    attributes:
+      label: Environment
+      description: OS, Python version, git version, how you installed aisweep
+      placeholder: "macOS 15, Python 3.12.4, git 2.39, pip install git+…"
+    validations:
+      required: true
+  - type: textarea
+    id: minimal-repro
+    attributes:
+      label: Minimal reproduction
+      description: A throwaway repo with the smallest commit that triggers it, if applicable
+    validations:
+      required: false

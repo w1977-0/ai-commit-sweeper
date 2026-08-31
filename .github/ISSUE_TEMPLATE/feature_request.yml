@@ -1,0 +1,33 @@
+name: Feature request
+description: Suggest an improvement — describe the problem, not just the solution.
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What are you trying to do, and what stands in the way?
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposed solution
+      description: What would you like aisweep to do? Commands/config you wish existed are ideal.
+    validations:
+      required: true
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+    validations:
+      required: false
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I searched existing issues and discussions for this
+          required: true
+        - label: This fits aisweep's scope (audit & prevent, non-destructive)
+          required: false
