@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="252" viewBox="0 0 840 252" font-family="ui-monospace,Menlo,'SF Mono',monospace" font-size="13">
+<rect width="840" height="252" rx="10" fill="#0d1117" stroke="#30363d"/>
+<path d="M0 34 h840" stroke="#30363d"/>
+<circle cx="18" cy="17" r="6" fill="#ff5f57"/><circle cx="36" cy="17" r="6" fill="#febc2e"/><circle cx="54" cy="17" r="6" fill="#28c840"/>
+<text x="70" y="22" fill="#8b949e">terminal — aisweep</text>
+<text x="20" y="69" fill="#7ee787">$</text>
+<text x="38" y="69" fill="#c9d1d9">$ aisweep scan ./my-project</text>
+<text x="20" y="90" fill="#8b949e">aisweep 0.1.0 — scanning main in ./my-project</text>
+<text x="20" y="111" fill="#ff7b72">  a4e8601 2026-08-29 ✖ block claude-session-url     https://claude.ai/code/session_a1b2c3d4e5f6</text>
+<text x="20" y="132" fill="#ff7b72">  a4e8601 2026-08-29 ✖ block claude-generated-with  🤖 Generated with [Claude Code](https://claude.com/claude-code)</text>
+<text x="20" y="153" fill="#ff7b72">  a4e8601 2026-08-29 ✖ block claude-coauthored      Co-Authored-By: Claude &lt;noreply@anthropic.com&gt;</text>
+<text x="20" y="174" fill="#d29922">  24a220d 2026-08-26 ⚠ warn  ai-coauthored          Co-Authored-By: Cursor &lt;agent@cursor.sh&gt;</text>
+<text x="20" y="195" fill="#c9d1d9">2/12 commit(s) contain AI attribution artifacts (4 finding(s)).</text>
+<text x="20" y="216" fill="#8b949e">Prevent future artifacts in this repo: aisweep hook install</text>
+</svg>
