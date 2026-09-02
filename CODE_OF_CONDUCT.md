@@ -60,7 +60,7 @@ appointed representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-<https://github.com/w1977-0/aisweep/issues> (or via GitHub's private contact
+<https://github.com/w1977-0/ai-commit-sweeper/issues> (or via GitHub's private contact
 mechanism for the repository owner). All complaints will be reviewed and
 investigated promptly and fairly.
 

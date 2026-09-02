@@ -8,12 +8,12 @@
 署名行和 AI Co-Author 尾注——适合使用 Claude Code、Cursor、Copilot、Aider、
 Gemini CLI、Codex，并且想把干净仓库发布出去的开发者。
 
-[![CI](https://github.com/w1977-0/aisweep/actions/workflows/ci.yml/badge.svg)](https://github.com/w1977-0/aisweep/actions/workflows/ci.yml)
+[![CI](https://github.com/w1977-0/ai-commit-sweeper/actions/workflows/ci.yml/badge.svg)](https://github.com/w1977-0/ai-commit-sweeper/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Tag](https://img.shields.io/github/v/tag/w1977-0/aisweep)](CHANGELOG.md)
-[![Stars](https://img.shields.io/github/stars/w1977-0/aisweep?style=social)](https://github.com/w1977-0/aisweep/stargazers)
+[![Tag](https://img.shields.io/github/v/tag/w1977-0/ai-commit-sweeper)](CHANGELOG.md)
+[![Stars](https://img.shields.io/github/stars/w1977-0/ai-commit-sweeper?style=social)](https://github.com/w1977-0/ai-commit-sweeper/stargazers)
 
 [English](README.md) | **简体中文**
 
@@ -58,10 +58,10 @@ AI 编程代理默认会给你的 commit「签名」。Claude Code 会在它写�
 
 ```bash
 # 安装
-pip install git+https://github.com/w1977-0/aisweep.git
-# 或隔离安装：pipx install git+https://github.com/w1977-0/aisweep.git
+pip install git+https://github.com/w1977-0/ai-commit-sweeper.git
+# 或隔离安装：pipx install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # 或不安装直接跑：
-git clone https://github.com/w1977-0/aisweep && cd aisweep && python -m aisweep --help
+git clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweep && python -m aisweep --help
 ```
 
 ```bash

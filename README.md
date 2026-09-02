@@ -9,12 +9,12 @@ co-author trailers that AI coding agents leave in your commits — for developer
 who use Claude Code, Cursor, Copilot, Aider, Gemini CLI or Codex and publish
 clean repositories.
 
-[![CI](https://github.com/w1977-0/aisweep/actions/workflows/ci.yml/badge.svg)](https://github.com/w1977-0/aisweep/actions/workflows/ci.yml)
+[![CI](https://github.com/w1977-0/ai-commit-sweeper/actions/workflows/ci.yml/badge.svg)](https://github.com/w1977-0/ai-commit-sweeper/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](pyproject.toml)
 [![Code style: ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
-[![Tag](https://img.shields.io/github/v/tag/w1977-0/aisweep)](CHANGELOG.md)
-[![Stars](https://img.shields.io/github/stars/w1977-0/aisweep?style=social)](https://github.com/w1977-0/aisweep/stargazers)
+[![Tag](https://img.shields.io/github/v/tag/w1977-0/ai-commit-sweeper)](CHANGELOG.md)
+[![Stars](https://img.shields.io/github/stars/w1977-0/ai-commit-sweeper?style=social)](https://github.com/w1977-0/ai-commit-sweeper/stargazers)
 
 **English** | [简体中文](README.zh-CN.md)
 
@@ -61,10 +61,10 @@ Prerequisites: Python 3.10+ and git.
 
 ```bash
 # install
-pip install git+https://github.com/w1977-0/aisweep.git
-# or isolated:  pipx install git+https://github.com/w1977-0/aisweep.git
+pip install git+https://github.com/w1977-0/ai-commit-sweeper.git
+# or isolated:  pipx install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # or without installing:
-git clone https://github.com/w1977-0/aisweep && cd aisweep && python -m aisweep --help
+git clone https://github.com/w1977-0/ai-commit-sweeper git clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweepgit clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweep cd ai-commit-sweeper && python -m aisweep --help
 ```
 
 ```bash

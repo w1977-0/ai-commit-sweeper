@@ -10,7 +10,7 @@
 
 Please report vulnerabilities privately via GitHub's
 **Report a vulnerability** button on the
-[Security tab](https://github.com/w1977-0/aisweep/security) of this
+[Security tab](https://github.com/w1977-0/ai-commit-sweeper/security) of this
 repository. Do not open a public issue for anything you believe is
 exploitable.
 
