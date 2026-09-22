@@ -61,7 +61,7 @@ AI 编程代理默认会给你的 commit「签名」。Claude Code 会在它写�
 pip install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # 或隔离安装：pipx install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # 或不安装直接跑：
-git clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweep && python -m aisweep --help
+git clone https://github.com/w1977-0/ai-commit-sweeper.git && cd ai-commit-sweeper && python -m aisweep --help
 ```
 
 ```bash

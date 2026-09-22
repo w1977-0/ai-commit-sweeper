@@ -16,7 +16,7 @@ tooling.
 ## Development setup
 
 ```bash
-git clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweep
+git clone https://github.com/w1977-0/ai-commit-sweeper.git && cd ai-commit-sweeper
 python -m venv .venv && source .venv/bin/activate
 pip install -e '.[dev]'
 ```

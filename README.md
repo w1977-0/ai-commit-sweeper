@@ -64,7 +64,9 @@ Prerequisites: Python 3.10+ and git.
 pip install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # or isolated:  pipx install git+https://github.com/w1977-0/ai-commit-sweeper.git
 # or without installing:
-git clone https://github.com/w1977-0/ai-commit-sweeper git clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweepgit clone https://github.com/w1977-0/ai-commit-sweeper && cd aisweep cd ai-commit-sweeper && python -m aisweep --help
+git clone https://github.com/w1977-0/ai-commit-sweeper.git
+cd ai-commit-sweeper
+python -m aisweep --help
 ```
 
 ```bash
