@@ -24,4 +24,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   documented for CI use (0 clean / 1 findings / 2 config+usage / 3 not a repo).
 - Full test suite (52 tests) and CI on Python 3.10–3.13.
 
-[0.1.0]: https://github.com/w1977-0/aisweep/releases/tag/v0.1.0
+[0.1.0]: https://github.com/w1977-0/ai-commit-sweeper/releases/tag/v0.1.0
